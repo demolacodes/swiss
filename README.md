@@ -1,1 +1,1 @@
-# swiss
+# swisstronik technical task 1
